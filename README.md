@@ -12,7 +12,7 @@ Or open: https://app.wonderbeestherapycentre.com/download/android
 
 1. Tap the download link above on your Android phone.
 2. When the download finishes, tap the file **wonderbees.apk**.
-3. If your phone says *"For your security, your phone is not allowed to install unknown apps"*:
+3. If your phone says *"For your security, your phone is not allowed to install unknown apps"*: 
    - Tap **Settings**
    - Turn on **Allow from this source**
    - Go back and tap **Install**
